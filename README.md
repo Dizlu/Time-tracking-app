@@ -8,6 +8,8 @@ App idea taken from React/Redux book created during reading
 npm install
 npm run go
 ```
+or visit:
+https://dizlu-timetrackingapp.herokuapp.com/
 ### TODO
  - Move dependencies into separate cdn's
  - Use Redux for data flow
