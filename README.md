@@ -1,6 +1,7 @@
 ### Time tracking app
 
 App meant for tracking time - init version
+App idea taken from React/Redux book created during reading
 
 ### How to run app
 ```
