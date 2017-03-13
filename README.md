@@ -2,6 +2,11 @@
 
 App meant for tracking time - init version
 
+### How to run app
+```
+npm install
+npm run go
+```
 ### TODO
  - Move dependencies into separate cdn's
  - Use Redux for data flow
