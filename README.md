@@ -4,7 +4,7 @@ To be app to kepp track of different things:
  - time
  - tasks
  - routines
- - anything else that will come to mind
+ - anything else that will come to minds
 
 ### How to run app
 ```
