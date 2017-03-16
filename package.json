@@ -1,7 +1,7 @@
 {
   "name": "timer_app",
   "version": "1.0.0",
-  "author": "Fullstack.io",
+  "author": "Marcin Gol",
   "scripts": {
     "go": "open http://localhost:3000; npm run server",
     "server": "./node_modules/.bin/babel-node server.js"
